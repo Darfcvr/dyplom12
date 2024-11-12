@@ -32,6 +32,16 @@
 		--web-scale-on-resize: true;
 		--web-enable-deep-linking: true;
 	}
+	@keyframes fadein {
+	
+		0% {
+			opacity: 0;
+		}
+		100% {
+			opacity: 1;
+		}
+	
+	}
 	#Warstwa_1 {
 		position: absolute;
 		width: 451.469px;
@@ -39,6 +49,10 @@
 		left: -100.123px;
 		top: 198.69px;
 		overflow: visible;
+		--web-animation: fadein 0.30000001192092896s ease-out;
+		--web-action-type: page;
+		--web-action-target: 1.html;
+		cursor: pointer;
 	}
 	#Warstwa_1_o {
 		position: absolute;
@@ -47,6 +61,10 @@
 		left: 211.456px;
 		top: 202.734px;
 		overflow: visible;
+		--web-animation: fadein 0.30000001192092896s ease-out;
+		--web-action-type: page;
+		--web-action-target: 1.html;
+		cursor: pointer;
 	}
 	#Warstwa_1_p {
 		position: absolute;
@@ -55,6 +73,10 @@
 		left: 512.346px;
 		top: 183.638px;
 		overflow: visible;
+		--web-animation: fadein 0.30000001192092896s ease-out;
+		--web-action-type: page;
+		--web-action-target: 1.html;
+		cursor: pointer;
 	}
 </style>
 <script id="applicationScript">
@@ -2898,11 +2920,11 @@ window.application = new Application();
 </head>
 <body>
 <div id="index__1">
-	<img id="Warstwa_1" src="Warstwa_1.png" srcset="Warstwa_1.png 1x, Warstwa_1@2x.png 2x">
+	<img onclick="application.goToTargetView(event)" id="Warstwa_1" src="Warstwa_1.png" srcset="Warstwa_1.png 1x, Warstwa_1@2x.png 2x">
 		
-	<img id="Warstwa_1_o" src="Warstwa_1_o.png" srcset="Warstwa_1_o.png 1x, Warstwa_1_o@2x.png 2x">
+	<img onclick="application.goToTargetView(event)" id="Warstwa_1_o" src="Warstwa_1_o.png" srcset="Warstwa_1_o.png 1x, Warstwa_1_o@2x.png 2x">
 		
-	<img id="Warstwa_1_p" src="Warstwa_1_p.png" srcset="Warstwa_1_p.png 1x, Warstwa_1_p@2x.png 2x">
+	<img onclick="application.goToTargetView(event)" id="Warstwa_1_p" src="Warstwa_1_p.png" srcset="Warstwa_1_p.png 1x, Warstwa_1_p@2x.png 2x">
 		
 </div>
 </body>
