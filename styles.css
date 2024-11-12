@@ -1,0 +1,3966 @@
+.mediaViewInfo {
+	--web-view-name: 1;
+	--web-view-id: ID1;
+	--web-scale-to-fit: true;
+	--web-scale-to-fit-type: width;
+	--web-enable-scale-up: true;
+	--web-scale-on-resize: true;
+	--web-center-vertically: true;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: ID1;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+#ID1 {
+	position: absolute;
+	width: 1920px;
+	height: 10000px;
+	background-color: rgba(0,0,0,1);
+	overflow: hidden;
+	--web-view-name: 1;
+	--web-view-id: ID1;
+	--web-scale-to-fit: true;
+	--web-scale-to-fit-type: width;
+	--web-enable-scale-up: true;
+	--web-scale-on-resize: true;
+	--web-center-vertically: true;
+	--web-enable-deep-linking: true;
+}
+@keyframes fadein {
+
+	0% {
+		opacity: 0;
+	}
+	100% {
+		opacity: 1;
+	}
+
+}
+#ytfghychkguu {
+	position: absolute;
+	width: 1920px;
+	height: 1400px;
+	left: 2px;
+	top: 2721px;
+	overflow: visible;
+}
+#wddwdwdwdwsssss {
+	position: absolute;
+	width: 1900px;
+	height: 1432px;
+	left: 2px;
+	top: 1274px;
+	overflow: visible;
+}
+#ccbgyucyx {
+	position: absolute;
+	width: 1920px;
+	height: 1358px;
+	left: 0px;
+	top: 4157px;
+	overflow: visible;
+}
+#ftfgyffg {
+	position: absolute;
+	width: 1920px;
+	height: 1340px;
+	left: 0px;
+	top: 5480px;
+	overflow: visible;
+}
+#dfuijkbfdfhbhfehjfde {
+	position: absolute;
+	width: 1888px;
+	height: 1335px;
+	left: 32px;
+	top: 6793px;
+	overflow: visible;
+}
+#yugygg {
+	position: absolute;
+	width: 1923px;
+	height: 1360px;
+	left: 0px;
+	top: 8249px;
+	overflow: visible;
+}
+#Group_3 {
+	position: absolute;
+	width: 625.148px;
+	height: 345.499px;
+	left: 81px;
+	top: 2178.724px;
+	overflow: visible;
+}
+#Group {
+	position: absolute;
+	width: 625.148px;
+	height: 345.499px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#po_ {
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 26px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: zai Consul Polish Typewriter;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 17px;
+	color: rgba(43,46,52,1);
+}
+#jego_ {
+	left: 35.651px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 43px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: zai Consul Polish Typewriter;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 17px;
+	color: rgba(43,46,52,1);
+}
+#myli_ {
+	left: 90.455px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 59px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: zai Consul Polish Typewriter;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 17px;
+	color: rgba(43,46,52,1);
+}
+#wpada_ {
+	left: 164.412px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 59px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: zai Consul Polish Typewriter;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 17px;
+	color: rgba(43,46,52,1);
+}
+#w_ {
+	left: 238.369px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 18px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: zai Consul Polish Typewriter;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 17px;
+	color: rgba(43,46,52,1);
+}
+#panik_ {
+	left: 264.445px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 67px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: zai Consul Polish Typewriter;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 17px;
+	color: rgba(43,46,52,1);
+}
+#Jego__z {
+	left: 347.979px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 43px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: zai Consul Polish Typewriter;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 17px;
+	color: rgba(43,46,52,1);
+}
+#rodzice_ {
+	left: 402.781px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 67px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: zai Consul Polish Typewriter;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 17px;
+	color: rgba(43,46,52,1);
+}
+#i_ {
+	left: 486.315px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 18px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: zai Consul Polish Typewriter;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 17px;
+	color: rgba(43,46,52,1);
+}
+#nauczyciele {
+	left: 512.391px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 92px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: zai Consul Polish Typewriter;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 17px;
+	color: rgba(43,46,52,1);
+}
+#_ {
+	left: 0px;
+	top: 23.536px;
+	position: absolute;
+	overflow: visible;
+	width: 9px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: zai Consul Polish Typewriter;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 17px;
+	color: rgba(43,46,52,1);
+}
+#tumaczyli_ {
+	left: 13.305px;
+	top: 23.536px;
+	position: absolute;
+	overflow: visible;
+	width: 92px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: zai Consul Polish Typewriter;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 17px;
+	color: rgba(43,46,52,1);
+}
+#to_ {
+	left: 122.368px;
+	top: 23.536px;
+	position: absolute;
+	overflow: visible;
+	width: 26px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: zai Consul Polish Typewriter;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 17px;
+	color: rgba(43,46,52,1);
+}
+#jako_ {
+	left: 154.825px;
+	top: 23.536px;
+	position: absolute;
+	overflow: visible;
+	width: 43px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: zai Consul Polish Typewriter;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 17px;
+	color: rgba(43,46,52,1);
+}
+#ambicj_ {
+	left: 206.437px;
+	top: 23.536px;
+	position: absolute;
+	overflow: visible;
+	width: 84px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: zai Consul Polish Typewriter;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 17px;
+	color: rgba(43,46,52,1);
+}
+#albo_ {
+	left: 305.932px;
+	top: 23.536px;
+	position: absolute;
+	overflow: visible;
+	width: 43px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: zai Consul Polish Typewriter;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 17px;
+	color: rgba(43,46,52,1);
+}
+#perfekcjonizm_ {
+	left: 357.544px;
+	top: 23.536px;
+	position: absolute;
+	overflow: visible;
+	width: 142px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: zai Consul Polish Typewriter;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 17px;
+	color: rgba(43,46,52,1);
+}
+#co_ {
+	left: 524.076px;
+	top: 23.536px;
+	position: absolute;
+	overflow: visible;
+	width: 43px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: zai Consul Polish Typewriter;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 17px;
+	color: rgba(43,46,52,1);
+}
+#co__bb {
+	left: 575.688px;
+	top: 23.536px;
+	position: absolute;
+	overflow: visible;
+	width: 26px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: zai Consul Polish Typewriter;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 17px;
+	color: rgba(43,46,52,1);
+}
+#w__bc {
+	left: 608.148px;
+	top: 23.536px;
+	position: absolute;
+	overflow: visible;
+	width: 18px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: zai Consul Polish Typewriter;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 17px;
+	color: rgba(43,46,52,1);
+}
+#przyszoci_ {
+	left: 0px;
+	top: 47.071px;
+	position: absolute;
+	overflow: visible;
+	width: 101px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: zai Consul Polish Typewriter;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 17px;
+	color: rgba(43,46,52,1);
+}
+#miao_ {
+	left: 119.712px;
+	top: 47.071px;
+	position: absolute;
+	overflow: visible;
+	width: 51px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: zai Consul Polish Typewriter;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 17px;
+	color: rgba(43,46,52,1);
+}
+#mu_ {
+	left: 181.966px;
+	top: 47.071px;
+	position: absolute;
+	overflow: visible;
+	width: 26px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: zai Consul Polish Typewriter;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 17px;
+	color: rgba(43,46,52,1);
+}
+#pomc_ {
+	left: 215.489px;
+	top: 47.071px;
+	position: absolute;
+	overflow: visible;
+	width: 59px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: zai Consul Polish Typewriter;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 17px;
+	color: rgba(43,46,52,1);
+}
+#Nikt_ {
+	left: 287.317px;
+	top: 47.071px;
+	position: absolute;
+	overflow: visible;
+	width: 43px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: zai Consul Polish Typewriter;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 17px;
+	color: rgba(43,46,52,1);
+}
+#nie_ {
+	left: 339.992px;
+	top: 47.071px;
+	position: absolute;
+	overflow: visible;
+	width: 34px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: zai Consul Polish Typewriter;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 17px;
+	color: rgba(43,46,52,1);
+}
+#zdawa_ {
+	left: 383.092px;
+	top: 47.071px;
+	position: absolute;
+	overflow: visible;
+	width: 59px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: zai Consul Polish Typewriter;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 17px;
+	color: rgba(43,46,52,1);
+}
+#sobie_ {
+	left: 454.921px;
+	top: 47.071px;
+	position: absolute;
+	overflow: visible;
+	width: 51px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: zai Consul Polish Typewriter;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 17px;
+	color: rgba(43,46,52,1);
+}
+#sprawy_ {
+	left: 517.174px;
+	top: 47.071px;
+	position: absolute;
+	overflow: visible;
+	width: 67px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: zai Consul Polish Typewriter;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 17px;
+	color: rgba(43,46,52,1);
+}
+#e_ {
+	left: 598.58px;
+	top: 47.071px;
+	position: absolute;
+	overflow: visible;
+	width: 26px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: zai Consul Polish Typewriter;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 17px;
+	color: rgba(43,46,52,1);
+}
+#ta_ {
+	left: 0px;
+	top: 70.607px;
+	position: absolute;
+	overflow: visible;
+	width: 26px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: zai Consul Polish Typewriter;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 17px;
+	color: rgba(43,46,52,1);
+}
+#potrzeba_ {
+	left: 36.516px;
+	top: 70.607px;
+	position: absolute;
+	overflow: visible;
+	width: 76px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: zai Consul Polish Typewriter;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 17px;
+	color: rgba(43,46,52,1);
+}
+#kontroli_ {
+	left: 130.491px;
+	top: 70.607px;
+	position: absolute;
+	overflow: visible;
+	width: 76px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: zai Consul Polish Typewriter;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 17px;
+	color: rgba(43,46,52,1);
+}
+#bya_ {
+	left: 224.467px;
+	top: 70.607px;
+	position: absolute;
+	overflow: visible;
+	width: 43px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: zai Consul Polish Typewriter;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 17px;
+	color: rgba(43,46,52,1);
+}
+#jedynie_ {
+	left: 280.137px;
+	top: 70.607px;
+	position: absolute;
+	overflow: visible;
+	width: 67px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: zai Consul Polish Typewriter;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 17px;
+	color: rgba(43,46,52,1);
+}
+#mask_ {
+	left: 364.536px;
+	top: 70.607px;
+	position: absolute;
+	overflow: visible;
+	width: 51px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: zai Consul Polish Typewriter;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 17px;
+	color: rgba(43,46,52,1);
+}
+#dla_ {
+	left: 429.783px;
+	top: 70.607px;
+	position: absolute;
+	overflow: visible;
+	width: 34px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: zai Consul Polish Typewriter;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 17px;
+	color: rgba(43,46,52,1);
+}
+#jego__bu {
+	left: 475.873px;
+	top: 70.607px;
+	position: absolute;
+	overflow: visible;
+	width: 43px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: zai Consul Polish Typewriter;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 17px;
+	color: rgba(43,46,52,1);
+}
+#gbszych_ {
+	left: 531.543px;
+	top: 70.607px;
+	position: absolute;
+	overflow: visible;
+	width: 84px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: zai Consul Polish Typewriter;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 17px;
+	color: rgba(43,46,52,1);
+}
+#problemw_ {
+	left: 0px;
+	top: 94.143px;
+	position: absolute;
+	overflow: visible;
+	width: 84px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: zai Consul Polish Typewriter;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 17px;
+	color: rgba(43,46,52,1);
+}
+#emocjonalnych_ {
+	left: 115.886px;
+	top: 94.143px;
+	position: absolute;
+	overflow: visible;
+	width: 126px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: zai Consul Polish Typewriter;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 17px;
+	color: rgba(43,46,52,1);
+}
+#Po__by {
+	left: 279.655px;
+	top: 94.143px;
+	position: absolute;
+	overflow: visible;
+	width: 26px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: zai Consul Polish Typewriter;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 17px;
+	color: rgba(43,46,52,1);
+}
+#ukoczeniu_ {
+	left: 328.503px;
+	top: 94.143px;
+	position: absolute;
+	overflow: visible;
+	width: 92px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: zai Consul Polish Typewriter;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 17px;
+	color: rgba(43,46,52,1);
+}
+#szkoy_ {
+	left: 453.966px;
+	top: 94.143px;
+	position: absolute;
+	overflow: visible;
+	width: 59px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: zai Consul Polish Typewriter;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 17px;
+	color: rgba(43,46,52,1);
+}
+#redniej {
+	left: 541.12px;
+	top: 94.143px;
+	position: absolute;
+	overflow: visible;
+	width: 67px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: zai Consul Polish Typewriter;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 17px;
+	color: rgba(43,46,52,1);
+}
+#__b {
+	left: 0px;
+	top: 117.678px;
+	position: absolute;
+	overflow: visible;
+	width: 9px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: zai Consul Polish Typewriter;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 17px;
+	color: rgba(43,46,52,1);
+}
+#__ca {
+	left: 24.546px;
+	top: 117.678px;
+	position: absolute;
+	overflow: visible;
+	width: 26px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: zai Consul Polish Typewriter;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 17px;
+	color: rgba(43,46,52,1);
+}
+#dosta_ {
+	left: 68.244px;
+	top: 117.678px;
+	position: absolute;
+	overflow: visible;
+	width: 59px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: zai Consul Polish Typewriter;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 17px;
+	color: rgba(43,46,52,1);
+}
+#si_ {
+	left: 150.248px;
+	top: 117.678px;
+	position: absolute;
+	overflow: visible;
+	width: 34px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: zai Consul Polish Typewriter;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 17px;
+	color: rgba(43,46,52,1);
+}
+#na_ {
+	left: 203.523px;
+	top: 117.678px;
+	position: absolute;
+	overflow: visible;
+	width: 26px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: zai Consul Polish Typewriter;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 17px;
+	color: rgba(43,46,52,1);
+}
+#wymarzone_ {
+	left: 247.222px;
+	top: 117.678px;
+	position: absolute;
+	overflow: visible;
+	width: 84px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: zai Consul Polish Typewriter;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 17px;
+	color: rgba(43,46,52,1);
+}
+#studia_ {
+	left: 357.958px;
+	top: 117.678px;
+	position: absolute;
+	overflow: visible;
+	width: 59px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: zai Consul Polish Typewriter;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 17px;
+	color: rgba(43,46,52,1);
+}
+#na__b {
+	left: 439.962px;
+	top: 117.678px;
+	position: absolute;
+	overflow: visible;
+	width: 26px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: zai Consul Polish Typewriter;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 17px;
+	color: rgba(43,46,52,1);
+}
+#uniwersytecie_ {
+	left: 483.66px;
+	top: 117.678px;
+	position: absolute;
+	overflow: visible;
+	width: 126px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: zai Consul Polish Typewriter;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 17px;
+	color: rgba(43,46,52,1);
+}
+#By_ {
+	left: 0px;
+	top: 141.214px;
+	position: absolute;
+	overflow: visible;
+	width: 34px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: zai Consul Polish Typewriter;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 17px;
+	color: rgba(43,46,52,1);
+}
+#wzorowym_ {
+	left: 62.256px;
+	top: 141.214px;
+	position: absolute;
+	overflow: visible;
+	width: 76px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: zai Consul Polish Typewriter;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 17px;
+	color: rgba(43,46,52,1);
+}
+#studentem_ {
+	left: 172.395px;
+	top: 141.214px;
+	position: absolute;
+	overflow: visible;
+	width: 92px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: zai Consul Polish Typewriter;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 17px;
+	color: rgba(43,46,52,1);
+}
+#zawsze_ {
+	left: 301.688px;
+	top: 141.214px;
+	position: absolute;
+	overflow: visible;
+	width: 59px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: zai Consul Polish Typewriter;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 17px;
+	color: rgba(43,46,52,1);
+}
+#przygotowanym_ {
+	left: 392.675px;
+	top: 141.214px;
+	position: absolute;
+	overflow: visible;
+	width: 126px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: zai Consul Polish Typewriter;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 17px;
+	color: rgba(43,46,52,1);
+}
+#zawsze__cg {
+	left: 560.274px;
+	top: 141.214px;
+	position: absolute;
+	overflow: visible;
+	width: 59px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: zai Consul Polish Typewriter;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 17px;
+	color: rgba(43,46,52,1);
+}
+#gotowym_ {
+	left: 0px;
+	top: 164.75px;
+	position: absolute;
+	overflow: visible;
+	width: 67px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: zai Consul Polish Typewriter;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 17px;
+	color: rgba(43,46,52,1);
+}
+#na__ci {
+	left: 96.457px;
+	top: 164.75px;
+	position: absolute;
+	overflow: visible;
+	width: 26px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: zai Consul Polish Typewriter;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 17px;
+	color: rgba(43,46,52,1);
+}
+#kolejne_ {
+	left: 145.029px;
+	top: 164.75px;
+	position: absolute;
+	overflow: visible;
+	width: 67px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: zai Consul Polish Typewriter;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 17px;
+	color: rgba(43,46,52,1);
+}
+#wyzwania_ {
+	left: 241.486px;
+	top: 164.75px;
+	position: absolute;
+	overflow: visible;
+	width: 84px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: zai Consul Polish Typewriter;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 17px;
+	color: rgba(43,46,52,1);
+}
+#Ale_ {
+	left: 357.095px;
+	top: 164.75px;
+	position: absolute;
+	overflow: visible;
+	width: 34px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: zai Consul Polish Typewriter;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 17px;
+	color: rgba(43,46,52,1);
+}
+#wtedy_ {
+	left: 415.245px;
+	top: 164.75px;
+	position: absolute;
+	overflow: visible;
+	width: 51px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: zai Consul Polish Typewriter;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 17px;
+	color: rgba(43,46,52,1);
+}
+#zaczy_ {
+	left: 492.544px;
+	top: 164.75px;
+	position: absolute;
+	overflow: visible;
+	width: 67px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: zai Consul Polish Typewriter;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 17px;
+	color: rgba(43,46,52,1);
+}
+#si__co {
+	left: 588.999px;
+	top: 164.75px;
+	position: absolute;
+	overflow: visible;
+	width: 34px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: zai Consul Polish Typewriter;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 17px;
+	color: rgba(43,46,52,1);
+}
+#pierwsze_ {
+	left: 0px;
+	top: 188.285px;
+	position: absolute;
+	overflow: visible;
+	width: 76px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: zai Consul Polish Typewriter;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 17px;
+	color: rgba(43,46,52,1);
+}
+#problemy_ {
+	left: 92.352px;
+	top: 188.285px;
+	position: absolute;
+	overflow: visible;
+	width: 84px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: zai Consul Polish Typewriter;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 17px;
+	color: rgba(43,46,52,1);
+}
+#Pierwsze__cr {
+	left: 194.281px;
+	top: 188.285px;
+	position: absolute;
+	overflow: visible;
+	width: 76px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: zai Consul Polish Typewriter;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 17px;
+	color: rgba(43,46,52,1);
+}
+#objawy_ {
+	left: 286.633px;
+	top: 188.285px;
+	position: absolute;
+	overflow: visible;
+	width: 59px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: zai Consul Polish Typewriter;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 17px;
+	color: rgba(43,46,52,1);
+}
+#jego__ct {
+	left: 359.831px;
+	top: 188.285px;
+	position: absolute;
+	overflow: visible;
+	width: 43px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: zai Consul Polish Typewriter;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 17px;
+	color: rgba(43,46,52,1);
+}
+#stanu_ {
+	left: 413.877px;
+	top: 188.285px;
+	position: absolute;
+	overflow: visible;
+	width: 51px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: zai Consul Polish Typewriter;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 17px;
+	color: rgba(43,46,52,1);
+}
+#byy_ {
+	left: 477.497px;
+	top: 188.285px;
+	position: absolute;
+	overflow: visible;
+	width: 43px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: zai Consul Polish Typewriter;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 17px;
+	color: rgba(43,46,52,1);
+}
+#subtelne_ {
+	left: 531.543px;
+	top: 188.285px;
+	position: absolute;
+	overflow: visible;
+	width: 84px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: zai Consul Polish Typewriter;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 17px;
+	color: rgba(43,46,52,1);
+}
+#drobne_ {
+	left: 0px;
+	top: 211.821px;
+	position: absolute;
+	overflow: visible;
+	width: 59px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: zai Consul Polish Typewriter;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 17px;
+	color: rgba(43,46,52,1);
+}
+#niepowodzenia_ {
+	left: 70.034px;
+	top: 211.821px;
+	position: absolute;
+	overflow: visible;
+	width: 117px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: zai Consul Polish Typewriter;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 17px;
+	color: rgba(43,46,52,1);
+}
+#wywoyway_ {
+	left: 207.106px;
+	top: 211.821px;
+	position: absolute;
+	overflow: visible;
+	width: 92px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: zai Consul Polish Typewriter;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 17px;
+	color: rgba(43,46,52,1);
+}
+#w__c {
+	left: 315.446px;
+	top: 211.821px;
+	position: absolute;
+	overflow: visible;
+	width: 18px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: zai Consul Polish Typewriter;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 17px;
+	color: rgba(43,46,52,1);
+}
+#nim_ {
+	left: 337.597px;
+	top: 211.821px;
+	position: absolute;
+	overflow: visible;
+	width: 34px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: zai Consul Polish Typewriter;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 17px;
+	color: rgba(43,46,52,1);
+}
+#ogromny_ {
+	left: 378.901px;
+	top: 211.821px;
+	position: absolute;
+	overflow: visible;
+	width: 67px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: zai Consul Polish Typewriter;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 17px;
+	color: rgba(43,46,52,1);
+}
+#stres_ {
+	left: 458.512px;
+	top: 211.821px;
+	position: absolute;
+	overflow: visible;
+	width: 59px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: zai Consul Polish Typewriter;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 17px;
+	color: rgba(43,46,52,1);
+}
+#Jeli_ {
+	left: 528.546px;
+	top: 211.821px;
+	position: absolute;
+	overflow: visible;
+	width: 51px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: zai Consul Polish Typewriter;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 17px;
+	color: rgba(43,46,52,1);
+}
+#co__c {
+	left: 589.003px;
+	top: 211.821px;
+	position: absolute;
+	overflow: visible;
+	width: 34px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: zai Consul Polish Typewriter;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 17px;
+	color: rgba(43,46,52,1);
+}
+#nie__c {
+	left: 0px;
+	top: 235.356px;
+	position: absolute;
+	overflow: visible;
+	width: 34px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: zai Consul Polish Typewriter;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 17px;
+	color: rgba(43,46,52,1);
+}
+#szo_ {
+	left: 37.832px;
+	top: 235.356px;
+	position: absolute;
+	overflow: visible;
+	width: 43px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: zai Consul Polish Typewriter;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 17px;
+	color: rgba(43,46,52,1);
+}
+#zgodnie_ {
+	left: 85.24px;
+	top: 235.356px;
+	position: absolute;
+	overflow: visible;
+	width: 67px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: zai Consul Polish Typewriter;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 17px;
+	color: rgba(43,46,52,1);
+}
+#z_ {
+	left: 161.378px;
+	top: 235.356px;
+	position: absolute;
+	overflow: visible;
+	width: 18px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: zai Consul Polish Typewriter;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 17px;
+	color: rgba(43,46,52,1);
+}
+#planem_ {
+	left: 180.058px;
+	top: 235.356px;
+	position: absolute;
+	overflow: visible;
+	width: 67px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: zai Consul Polish Typewriter;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 17px;
+	color: rgba(43,46,52,1);
+}
+#__db {
+	left: 256.195px;
+	top: 235.356px;
+	position: absolute;
+	overflow: visible;
+	width: 26px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: zai Consul Polish Typewriter;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 17px;
+	color: rgba(43,46,52,1);
+}
+#wpada__dc {
+	left: 284.45px;
+	top: 235.356px;
+	position: absolute;
+	overflow: visible;
+	width: 59px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: zai Consul Polish Typewriter;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 17px;
+	color: rgba(43,46,52,1);
+}
+#w__dd {
+	left: 351.013px;
+	top: 235.356px;
+	position: absolute;
+	overflow: visible;
+	width: 18px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: zai Consul Polish Typewriter;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 17px;
+	color: rgba(43,46,52,1);
+}
+#stan_ {
+	left: 369.69px;
+	top: 235.356px;
+	position: absolute;
+	overflow: visible;
+	width: 43px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: zai Consul Polish Typewriter;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 17px;
+	color: rgba(43,46,52,1);
+}
+#gbokiego_ {
+	left: 417.099px;
+	top: 235.356px;
+	position: absolute;
+	overflow: visible;
+	width: 92px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: zai Consul Polish Typewriter;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 17px;
+	color: rgba(43,46,52,1);
+}
+#niepokoju_ {
+	left: 521.962px;
+	top: 235.356px;
+	position: absolute;
+	overflow: visible;
+	width: 92px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: zai Consul Polish Typewriter;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 17px;
+	color: rgba(43,46,52,1);
+}
+#Pierwsza_ {
+	left: 0px;
+	top: 258.892px;
+	position: absolute;
+	overflow: visible;
+	width: 76px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: zai Consul Polish Typewriter;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 17px;
+	color: rgba(43,46,52,1);
+}
+#negatywna_ {
+	left: 89.616px;
+	top: 258.892px;
+	position: absolute;
+	overflow: visible;
+	width: 84px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: zai Consul Polish Typewriter;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 17px;
+	color: rgba(43,46,52,1);
+}
+#ocena_ {
+	left: 188.799px;
+	top: 258.892px;
+	position: absolute;
+	overflow: visible;
+	width: 51px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: zai Consul Polish Typewriter;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 17px;
+	color: rgba(43,46,52,1);
+}
+#na__dk {
+	left: 249.684px;
+	top: 258.892px;
+	position: absolute;
+	overflow: visible;
+	width: 26px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: zai Consul Polish Typewriter;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 17px;
+	color: rgba(43,46,52,1);
+}
+#egzaminie_ {
+	left: 281.84px;
+	top: 258.892px;
+	position: absolute;
+	overflow: visible;
+	width: 84px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: zai Consul Polish Typewriter;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 17px;
+	color: rgba(43,46,52,1);
+}
+#niemale_ {
+	left: 381.032px;
+	top: 258.892px;
+	position: absolute;
+	overflow: visible;
+	width: 76px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: zai Consul Polish Typewriter;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 17px;
+	color: rgba(43,46,52,1);
+}
+#doprowadzia_ {
+	left: 470.648px;
+	top: 258.892px;
+	position: absolute;
+	overflow: visible;
+	width: 109px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: zai Consul Polish Typewriter;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 17px;
+	color: rgba(43,46,52,1);
+}
+#go_ {
+	left: 598.571px;
+	top: 258.892px;
+	position: absolute;
+	overflow: visible;
+	width: 26px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: zai Consul Polish Typewriter;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 17px;
+	color: rgba(43,46,52,1);
+}
+#do_ {
+	left: 0px;
+	top: 282.428px;
+	position: absolute;
+	overflow: visible;
+	width: 26px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: zai Consul Polish Typewriter;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 17px;
+	color: rgba(43,46,52,1);
+}
+#zaamania_ {
+	left: 35.319px;
+	top: 282.428px;
+	position: absolute;
+	overflow: visible;
+	width: 84px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: zai Consul Polish Typewriter;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 17px;
+	color: rgba(43,46,52,1);
+}
+#nerwowego_ {
+	left: 137.674px;
+	top: 282.428px;
+	position: absolute;
+	overflow: visible;
+	width: 92px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: zai Consul Polish Typewriter;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 17px;
+	color: rgba(43,46,52,1);
+}
+#Potrafi_ {
+	left: 249.607px;
+	top: 282.428px;
+	position: absolute;
+	overflow: visible;
+	width: 76px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: zai Consul Polish Typewriter;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 17px;
+	color: rgba(43,46,52,1);
+}
+#nie__dt {
+	left: 342.385px;
+	top: 282.428px;
+	position: absolute;
+	overflow: visible;
+	width: 34px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: zai Consul Polish Typewriter;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 17px;
+	color: rgba(43,46,52,1);
+}
+#spa_ {
+	left: 387.281px;
+	top: 282.428px;
+	position: absolute;
+	overflow: visible;
+	width: 43px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: zai Consul Polish Typewriter;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 17px;
+	color: rgba(43,46,52,1);
+}
+#przez_ {
+	left: 441.753px;
+	top: 282.428px;
+	position: absolute;
+	overflow: visible;
+	width: 51px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: zai Consul Polish Typewriter;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 17px;
+	color: rgba(43,46,52,1);
+}
+#kilka_ {
+	left: 505.801px;
+	top: 282.428px;
+	position: absolute;
+	overflow: visible;
+	width: 51px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: zai Consul Polish Typewriter;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 17px;
+	color: rgba(43,46,52,1);
+}
+#nocy_ {
+	left: 569.851px;
+	top: 282.428px;
+	position: absolute;
+	overflow: visible;
+	width: 51px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: zai Consul Polish Typewriter;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 17px;
+	color: rgba(43,46,52,1);
+}
+#obsesyjnie_ {
+	left: 0px;
+	top: 305.964px;
+	position: absolute;
+	overflow: visible;
+	width: 92px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: zai Consul Polish Typewriter;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 17px;
+	color: rgba(43,46,52,1);
+}
+#analizujc_ {
+	left: 114.242px;
+	top: 305.964px;
+	position: absolute;
+	overflow: visible;
+	width: 92px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: zai Consul Polish Typewriter;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 17px;
+	color: rgba(43,46,52,1);
+}
+#kady_ {
+	left: 228.482px;
+	top: 305.964px;
+	position: absolute;
+	overflow: visible;
+	width: 51px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: zai Consul Polish Typewriter;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 17px;
+	color: rgba(43,46,52,1);
+}
+#bd_ {
+	left: 294.841px;
+	top: 305.964px;
+	position: absolute;
+	overflow: visible;
+	width: 51px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: zai Consul Polish Typewriter;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 17px;
+	color: rgba(43,46,52,1);
+}
+#kad_ {
+	left: 361.2px;
+	top: 305.964px;
+	position: absolute;
+	overflow: visible;
+	width: 51px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: zai Consul Polish Typewriter;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 17px;
+	color: rgba(43,46,52,1);
+}
+#minut_ {
+	left: 427.557px;
+	top: 305.964px;
+	position: absolute;
+	overflow: visible;
+	width: 59px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: zai Consul Polish Typewriter;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 17px;
+	color: rgba(43,46,52,1);
+}
+#spdzon_ {
+	left: 503.492px;
+	top: 305.964px;
+	position: absolute;
+	overflow: visible;
+	width: 76px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: zai Consul Polish Typewriter;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 17px;
+	color: rgba(43,46,52,1);
+}
+#na__d {
+	left: 598.58px;
+	top: 305.964px;
+	position: absolute;
+	overflow: visible;
+	width: 26px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: zai Consul Polish Typewriter;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 17px;
+	color: rgba(43,46,52,1);
+}
+#nauce_by_zrozumie_gdzie_zawid_ {
+	left: 0px;
+	top: 329.499px;
+	position: absolute;
+	overflow: visible;
+	width: 507px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: zai Consul Polish Typewriter;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 17px;
+	color: rgba(43,46,52,1);
+}
+#Group_4 {
+	position: absolute;
+	width: 415px;
+	height: 407.045px;
+	left: 324px;
+	top: 3085.717px;
+	overflow: visible;
+}
+#Group_d {
+	position: absolute;
+	width: 415px;
+	height: 407.045px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#jego_potrzeba_kontroli_rosa_Ws {
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 325px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: zai Consul Polish Typewriter;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 17px;
+	color: rgba(43,46,52,1);
+}
+#musiao_by_doskonae__nie_tylko_ {
+	left: 0px;
+	top: 23.003px;
+	position: absolute;
+	overflow: visible;
+	width: 325px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: zai Consul Polish Typewriter;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 17px;
+	color: rgba(43,46,52,1);
+}
+#wyniki_na_studiach_ale_take_wy {
+	left: 0px;
+	top: 46.005px;
+	position: absolute;
+	overflow: visible;
+	width: 316px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: zai Consul Polish Typewriter;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 17px;
+	color: rgba(43,46,52,1);
+}
+#relacje_z_innymi_finanse_By_pr {
+	left: 0px;
+	top: 69.008px;
+	position: absolute;
+	overflow: visible;
+	width: 325px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: zai Consul Polish Typewriter;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 17px;
+	color: rgba(43,46,52,1);
+}
+#- {
+	left: 407px;
+	top: 69.008px;
+	position: absolute;
+	overflow: visible;
+	width: 9px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: zai Consul Polish Typewriter;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 17px;
+	color: rgba(43,46,52,1);
+}
+#ny_e_tylko_poprzez_absolutn_ko {
+	left: 0px;
+	top: 92.01px;
+	position: absolute;
+	overflow: visible;
+	width: 333px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: zai Consul Polish Typewriter;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 17px;
+	color: rgba(43,46,52,1);
+}
+#nad_sob_i_otoczeniem_bdzie_w_s {
+	left: 0px;
+	top: 115.013px;
+	position: absolute;
+	overflow: visible;
+	width: 316px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: zai Consul Polish Typewriter;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 17px;
+	color: rgba(43,46,52,1);
+}
+#osign_sukces_To_wanie_wtedy_w_ {
+	left: 0px;
+	top: 138.016px;
+	position: absolute;
+	overflow: visible;
+	width: 341px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: zai Consul Polish Typewriter;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 17px;
+	color: rgba(43,46,52,1);
+}
+#yciu_pojawia_si__kobieta_ktr_ {
+	left: 0px;
+	top: 161.018px;
+	position: absolute;
+	overflow: visible;
+	width: 316px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: zai Consul Polish Typewriter;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 17px;
+	color: rgba(43,46,52,1);
+}
+#pniej_polubi_Bya_jego_przeciwi {
+	left: 0px;
+	top: 184.021px;
+	position: absolute;
+	overflow: visible;
+	width: 316px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: zai Consul Polish Typewriter;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 17px;
+	color: rgba(43,46,52,1);
+}
+#-_ej {
+	left: 397.646px;
+	top: 184.021px;
+	position: absolute;
+	overflow: visible;
+	width: 9px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: zai Consul Polish Typewriter;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 17px;
+	color: rgba(43,46,52,1);
+}
+#stwem__spontaniczna_radosna_pe {
+	left: 0px;
+	top: 207.024px;
+	position: absolute;
+	overflow: visible;
+	width: 308px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: zai Consul Polish Typewriter;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 17px;
+	color: rgba(43,46,52,1);
+}
+#ycia_Pocztkowo_wydawao_si_e_je {
+	left: 0px;
+	top: 230.026px;
+	position: absolute;
+	overflow: visible;
+	width: 325px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: zai Consul Polish Typewriter;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 17px;
+	color: rgba(43,46,52,1);
+}
+#energia_moe_mu_pomc_si_rozluni {
+	left: 0px;
+	top: 253.029px;
+	position: absolute;
+	overflow: visible;
+	width: 308px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: zai Consul Polish Typewriter;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 17px;
+	color: rgba(43,46,52,1);
+}
+#znale_rwnowag_Ona_sama_opisywa {
+	left: 0px;
+	top: 276.031px;
+	position: absolute;
+	overflow: visible;
+	width: 341px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: zai Consul Polish Typewriter;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 17px;
+	color: rgba(43,46,52,1);
+}
+#jako_kamie_ktrytrzyma_j_na_zie {
+	left: 0px;
+	top: 299.034px;
+	position: absolute;
+	overflow: visible;
+	width: 333px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: zai Consul Polish Typewriter;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 17px;
+	color: rgba(43,46,52,1);
+}
+#gdy_ona_buja_w_obokach_Z_czase {
+	left: 0px;
+	top: 322.037px;
+	position: absolute;
+	overflow: visible;
+	width: 283px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: zai Consul Polish Typewriter;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 17px;
+	color: rgba(43,46,52,1);
+}
+#jednak_ich_relacja_zacza_ {
+	left: 0px;
+	top: 345.04px;
+	position: absolute;
+	overflow: visible;
+	width: 233px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: zai Consul Polish Typewriter;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 17px;
+	color: rgba(43,46,52,1);
+}
+#sikomplikowa__nie_mgznie_jej_ {
+	left: 0px;
+	top: 368.042px;
+	position: absolute;
+	overflow: visible;
+	width: 308px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: zai Consul Polish Typewriter;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 17px;
+	color: rgba(43,46,52,1);
+}
+#spontanicznoci_Kady_plan_ktry_ {
+	left: 0px;
+	top: 391.045px;
+	position: absolute;
+	overflow: visible;
+	width: 325px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: zai Consul Polish Typewriter;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 17px;
+	color: rgba(43,46,52,1);
+}
+#Group_5 {
+	position: absolute;
+	width: 199px;
+	height: 348.513px;
+	left: 381px;
+	top: 4709.333px;
+	overflow: visible;
+}
+#Group_eu {
+	position: absolute;
+	width: 199px;
+	height: 348.513px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#zmieniaa_w_ostatniej_ {
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 184px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: zai Consul Polish Typewriter;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 17px;
+	color: rgba(43,46,52,1);
+}
+#chwili_kade_drobne_ {
+	left: 0px;
+	top: 23.751px;
+	position: absolute;
+	overflow: visible;
+	width: 175px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: zai Consul Polish Typewriter;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 17px;
+	color: rgba(43,46,52,1);
+}
+#odstpstwo_od_tego_co_ {
+	left: 0px;
+	top: 47.502px;
+	position: absolute;
+	overflow: visible;
+	width: 192px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: zai Consul Polish Typewriter;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 17px;
+	color: rgba(43,46,52,1);
+}
+#zaplanowa_ {
+	left: 0px;
+	top: 71.253px;
+	position: absolute;
+	overflow: visible;
+	width: 101px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: zai Consul Polish Typewriter;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 17px;
+	color: rgba(43,46,52,1);
+}
+#wywoywao_w_ {
+	left: 0px;
+	top: 95.004px;
+	position: absolute;
+	overflow: visible;
+	width: 109px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: zai Consul Polish Typewriter;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 17px;
+	color: rgba(43,46,52,1);
+}
+#nimfrustracj_ {
+	left: 0px;
+	top: 118.755px;
+	position: absolute;
+	overflow: visible;
+	width: 126px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: zai Consul Polish Typewriter;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 17px;
+	color: rgba(43,46,52,1);
+}
+#Zaczyna_j_ {
+	left: 0px;
+	top: 142.506px;
+	position: absolute;
+	overflow: visible;
+	width: 101px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: zai Consul Polish Typewriter;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 17px;
+	color: rgba(43,46,52,1);
+}
+#kontrolowa_zmusza_do_ {
+	left: 0px;
+	top: 166.257px;
+	position: absolute;
+	overflow: visible;
+	width: 200px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: zai Consul Polish Typewriter;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 17px;
+	color: rgba(43,46,52,1);
+}
+#przestrzegania_jego_ {
+	left: 0px;
+	top: 190.008px;
+	position: absolute;
+	overflow: visible;
+	width: 167px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: zai Consul Polish Typewriter;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 17px;
+	color: rgba(43,46,52,1);
+}
+#regu_Ona_pocztkowo {
+	left: 0px;
+	top: 213.759px;
+	position: absolute;
+	overflow: visible;
+	width: 184px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: zai Consul Polish Typewriter;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 17px;
+	color: rgba(43,46,52,1);
+}
+#wyrozumiaa_zacza_ {
+	left: 0px;
+	top: 237.51px;
+	position: absolute;
+	overflow: visible;
+	width: 175px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: zai Consul Polish Typewriter;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 17px;
+	color: rgba(43,46,52,1);
+}
+#czu_si_osaczona_a_ {
+	left: 0px;
+	top: 261.261px;
+	position: absolute;
+	overflow: visible;
+	width: 175px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: zai Consul Polish Typewriter;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 17px;
+	color: rgba(43,46,52,1);
+}
+#ich_maestwo_ktre_ {
+	left: 0px;
+	top: 284.667px;
+	position: absolute;
+	overflow: visible;
+	width: 184px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: zai Consul Polish Typewriter;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 17px;
+	color: rgba(43,46,52,1);
+}
+#miao_by_pene_ {
+	left: 0px;
+	top: 308.762px;
+	position: absolute;
+	overflow: visible;
+	width: 134px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: zai Consul Polish Typewriter;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 17px;
+	color: rgba(43,46,52,1);
+}
+#mioci_przerodzio_ {
+	left: 0px;
+	top: 332.513px;
+	position: absolute;
+	overflow: visible;
+	width: 175px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: zai Consul Polish Typewriter;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 17px;
+	color: rgba(43,46,52,1);
+}
+#Group_6 {
+	position: absolute;
+	width: 554.462px;
+	height: 286.11px;
+	left: 1032px;
+	top: 4255.447px;
+	overflow: visible;
+}
+#Group_fb {
+	position: absolute;
+	width: 554.462px;
+	height: 286.11px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#si_w_cige_ {
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 115px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: zai Consul Polish Typewriter;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 18px;
+	color: rgba(43,46,52,1);
+}
+#starcie_dwch_skrajnych_____oso {
+	left: 0px;
+	top: 24.374px;
+	position: absolute;
+	overflow: visible;
+	width: 484px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: zai Consul Polish Typewriter;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 18px;
+	color: rgba(43,46,52,1);
+}
+#-_fe {
+	left: 545.462px;
+	top: 24.374px;
+	position: absolute;
+	overflow: visible;
+	width: 10px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: zai Consul Polish Typewriter;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 18px;
+	color: rgba(43,46,52,1);
+}
+#giczna_bya_jednak_historia_ich {
+	left: 0px;
+	top: 48.747px;
+	position: absolute;
+	overflow: visible;
+	width: 502px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: zai Consul Polish Typewriter;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 18px;
+	color: rgba(43,46,52,1);
+}
+#przysza_na_wiat_ {
+	left: 0px;
+	top: 73.121px;
+	position: absolute;
+	overflow: visible;
+	width: 168px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: zai Consul Polish Typewriter;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 18px;
+	color: rgba(43,46,52,1);
+}
+#_wydawa_si_pocztkowo_niebowzit {
+	left: 0px;
+	top: 97.495px;
+	position: absolute;
+	overflow: visible;
+	width: 476px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: zai Consul Polish Typewriter;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 18px;
+	color: rgba(43,46,52,1);
+}
+#niego_nowym_projektem_czym_co_ {
+	left: 0px;
+	top: 121.868px;
+	position: absolute;
+	overflow: visible;
+	width: 502px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: zai Consul Polish Typewriter;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 18px;
+	color: rgba(43,46,52,1);
+}
+#Ale_jak_kady_rodzic_wie_dzieci {
+	left: 0px;
+	top: 146.242px;
+	position: absolute;
+	overflow: visible;
+	width: 476px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: zai Consul Polish Typewriter;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 18px;
+	color: rgba(43,46,52,1);
+}
+#Crka__bya_energiczna_pena_ycia {
+	left: 0px;
+	top: 170.615px;
+	position: absolute;
+	overflow: visible;
+	width: 493px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: zai Consul Polish Typewriter;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 18px;
+	color: rgba(43,46,52,1);
+}
+#matka__nie_potrafi_poradzi_sob {
+	left: 0px;
+	top: 194.989px;
+	position: absolute;
+	overflow: visible;
+	width: 484px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: zai Consul Polish Typewriter;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 18px;
+	color: rgba(43,46,52,1);
+}
+#chaosem_jej_niechci_do_przestr {
+	left: 0px;
+	top: 219.363px;
+	position: absolute;
+	overflow: visible;
+	width: 467px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: zai Consul Polish Typewriter;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 18px;
+	color: rgba(43,46,52,1);
+}
+#Zaczyna_j_kontrolowa_narzuca_j {
+	left: 0px;
+	top: 243.736px;
+	position: absolute;
+	overflow: visible;
+	width: 440px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: zai Consul Polish Typewriter;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 18px;
+	color: rgba(43,46,52,1);
+}
+#ogranicza_swobod_Kiedy_miaa_pi {
+	left: 0px;
+	top: 268.11px;
+	position: absolute;
+	overflow: visible;
+	width: 458px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: zai Consul Polish Typewriter;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 18px;
+	color: rgba(43,46,52,1);
+}
+#Group_7 {
+	position: absolute;
+	width: 810px;
+	height: 363.267px;
+	left: 115px;
+	top: 5700.22px;
+	overflow: visible;
+}
+#Group_fq {
+	position: absolute;
+	width: 810px;
+	height: 363.267px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#pierwszej_powanej_ktni_midzy_n {
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 780px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: zai Consul Polish Typewriter;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 21px;
+	color: rgba(43,46,52,1);
+}
+#tamsi_ich_crk_e_nie_pozwala_je {
+	left: 0px;
+	top: 26.405px;
+	position: absolute;
+	overflow: visible;
+	width: 483px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: zai Consul Polish Typewriter;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 21px;
+	color: rgba(43,46,52,1);
+}
+#Jego_reakcja_bya_gwatowna__wyr {
+	left: 0px;
+	top: 52.811px;
+	position: absolute;
+	overflow: visible;
+	width: 739px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: zai Consul Polish Typewriter;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 21px;
+	color: rgba(43,46,52,1);
+}
+#udowodni_e_to_on_ma_racj_To_by {
+	left: 0px;
+	top: 79.216px;
+	position: absolute;
+	overflow: visible;
+	width: 801px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: zai Consul Polish Typewriter;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 21px;
+	color: rgba(43,46,52,1);
+}
+#kontroli_osigna_kulminacj_Zami {
+	left: 0px;
+	top: 105.621px;
+	position: absolute;
+	overflow: visible;
+	width: 811px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: zai Consul Polish Typewriter;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 21px;
+	color: rgba(43,46,52,1);
+}
+#_postanowi_e_jedynym_sposobem_ {
+	left: 0px;
+	top: 132.026px;
+	position: absolute;
+	overflow: visible;
+	width: 760px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: zai Consul Polish Typewriter;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 21px;
+	color: rgba(43,46,52,1);
+}
+#podporzdkowanie_ich_swojemu_po {
+	left: 0px;
+	top: 158.431px;
+	position: absolute;
+	overflow: visible;
+	width: 729px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: zai Consul Polish Typewriter;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 21px;
+	color: rgba(43,46,52,1);
+}
+#sprawdza_jej_telefon_kontrolow {
+	left: 0px;
+	top: 184.836px;
+	position: absolute;
+	overflow: visible;
+	width: 770px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: zai Consul Polish Typewriter;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 21px;
+	color: rgba(43,46,52,1);
+}
+#zgadza_na_jego_reguy_zacz_j_sz {
+	left: 0px;
+	top: 211.242px;
+	position: absolute;
+	overflow: visible;
+	width: 739px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: zai Consul Polish Typewriter;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 21px;
+	color: rgba(43,46,52,1);
+}
+#dzieckiem_eby_miaa_poczucie_wi {
+	left: 0px;
+	top: 237.647px;
+	position: absolute;
+	overflow: visible;
+	width: 739px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: zai Consul Polish Typewriter;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 21px;
+	color: rgba(43,46,52,1);
+}
+#wszystko_Pewnego_dnia_ona__ozn {
+	left: 0px;
+	top: 264.052px;
+	position: absolute;
+	overflow: visible;
+	width: 780px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: zai Consul Polish Typewriter;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 21px;
+	color: rgba(43,46,52,1);
+}
+#cios_jakiego_nie_mg_przewidzie {
+	left: 0px;
+	top: 290.457px;
+	position: absolute;
+	overflow: visible;
+	width: 780px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: zai Consul Polish Typewriter;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 21px;
+	color: rgba(43,46,52,1);
+}
+#mia_si_zawali_a_on_nie_mg_na_t {
+	left: 0px;
+	top: 316.862px;
+	position: absolute;
+	overflow: visible;
+	width: 811px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: zai Consul Polish Typewriter;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 21px;
+	color: rgba(43,46,52,1);
+}
+#wczeniej_z_pracy_i_zasta_swoj_ {
+	left: 0px;
+	top: 343.268px;
+	position: absolute;
+	overflow: visible;
+	width: 626px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: zai Consul Polish Typewriter;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 21px;
+	color: rgba(43,46,52,1);
+}
+#Group_8 {
+	position: absolute;
+	width: 527px;
+	height: 102.405px;
+	left: 143px;
+	top: 7803.724px;
+	overflow: visible;
+}
+#Group_f {
+	position: absolute;
+	width: 527px;
+	height: 102.405px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#_Bez_sowa_podszed_do_niej_chwy {
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 528px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: zai Consul Polish Typewriter;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(43,46,52,1);
+}
+#na_stole_i_ugodzi_j_kilkanacie {
+	left: 0px;
+	top: 27.802px;
+	position: absolute;
+	overflow: visible;
+	width: 528px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: zai Consul Polish Typewriter;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(43,46,52,1);
+}
+#bya_wiadkiem_tego_wszystkiego_ {
+	left: 0px;
+	top: 55.276px;
+	position: absolute;
+	overflow: visible;
+	width: 499px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: zai Consul Polish Typewriter;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(43,46,52,1);
+}
+#kcie_pokoju {
+	left: 0px;
+	top: 83.405px;
+	position: absolute;
+	overflow: visible;
+	width: 128px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: zai Consul Polish Typewriter;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(43,46,52,1);
+}
+#Group_9 {
+	position: absolute;
+	width: 826.05px;
+	height: 211.542px;
+	left: 1049px;
+	top: 8871.229px;
+	overflow: visible;
+}
+#Group_gc {
+	position: absolute;
+	width: 826.05px;
+	height: 211.542px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#_To_jej_krzyk_obudzi_go_z_amok {
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 748px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: zai Consul Polish Typewriter;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 18px;
+	color: rgba(43,46,52,1);
+}
+#do_wszystkiego_Zosta_aresztowa {
+	left: 0px;
+	top: 24.192px;
+	position: absolute;
+	overflow: visible;
+	width: 730px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: zai Consul Polish Typewriter;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 18px;
+	color: rgba(43,46,52,1);
+}
+#-_gf {
+	left: 817.05px;
+	top: 24.192px;
+	position: absolute;
+	overflow: visible;
+	width: 10px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: zai Consul Polish Typewriter;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 18px;
+	color: rgba(43,46,52,1);
+}
+#su_jeg_adwokat_argumentowa_e__ {
+	left: 0px;
+	top: 48.386px;
+	position: absolute;
+	overflow: visible;
+	width: 713px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: zai Consul Polish Typewriter;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 18px;
+	color: rgba(43,46,52,1);
+}
+#-_gh {
+	left: 797.374px;
+	top: 48.386px;
+	position: absolute;
+	overflow: visible;
+	width: 10px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: zai Consul Polish Typewriter;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 18px;
+	color: rgba(43,46,52,1);
+}
+#ne_z_obsesyjn_potrzeb_kontroli {
+	left: 0px;
+	top: 72.578px;
+	position: absolute;
+	overflow: visible;
+	width: 739px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: zai Consul Polish Typewriter;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 18px;
+	color: rgba(43,46,52,1);
+}
+#jego_ycie_byo_pene_niewielkich {
+	left: 0px;
+	top: 96.771px;
+	position: absolute;
+	overflow: visible;
+	width: 739px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: zai Consul Polish Typewriter;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 18px;
+	color: rgba(43,46,52,1);
+}
+#tej_tragedii_Podczas {
+	left: 0px;
+	top: 120.964px;
+	position: absolute;
+	overflow: visible;
+	width: 186px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: zai Consul Polish Typewriter;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 18px;
+	color: rgba(43,46,52,1);
+}
+#naszych_rozmw__wielokrotnie_po {
+	left: 0px;
+	top: 145.156px;
+	position: absolute;
+	overflow: visible;
+	width: 713px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: zai Consul Polish Typewriter;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 18px;
+	color: rgba(43,46,52,1);
+}
+#rozpada_si_na_jego_oczach_Nie_ {
+	left: 0px;
+	top: 169.35px;
+	position: absolute;
+	overflow: visible;
+	width: 722px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: zai Consul Polish Typewriter;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 18px;
+	color: rgba(43,46,52,1);
+}
+#-_gn {
+	left: 807.212px;
+	top: 169.35px;
+	position: absolute;
+	overflow: visible;
+	width: 10px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: zai Consul Polish Typewriter;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 18px;
+	color: rgba(43,46,52,1);
+}
+#trolowa_mogo_zakoczy_si_tak_ka {
+	left: 0px;
+	top: 193.542px;
+	position: absolute;
+	overflow: visible;
+	width: 731px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: zai Consul Polish Typewriter;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 18px;
+	color: rgba(43,46,52,1);
+}
+#-_gp {
+	left: 817.05px;
+	top: 193.542px;
+	position: absolute;
+	overflow: visible;
+	width: 10px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: zai Consul Polish Typewriter;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 18px;
+	color: rgba(43,46,52,1);
+}
+#trrtcy {
+	position: absolute;
+	width: 1920px;
+	height: 1274px;
+	left: 2px;
+	top: 0px;
+	overflow: visible;
+}
+#Group_1 {
+	position: absolute;
+	width: 313px;
+	height: 342.993px;
+	left: 572px;
+	top: 465.504px;
+	overflow: visible;
+	--web-animation: fadein 0.30000001192092896s ease-out;
+	--web-action-type: page;
+	--web-action-target: 1___1.html;
+	cursor: pointer;
+}
+#Group_gs {
+	position: absolute;
+	width: 313px;
+	height: 342.993px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#_Zacznijmy_od_pocztku {
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 235px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: zai Consul Polish Typewriter;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(43,46,52,1);
+}
+#__urodzi_si_i_wychowa {
+	left: 0px;
+	top: 24.923px;
+	position: absolute;
+	overflow: visible;
+	width: 255px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: zai Consul Polish Typewriter;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(43,46,52,1);
+}
+#w_rodzinie_robotniczej_ {
+	left: 0px;
+	top: 49.845px;
+	position: absolute;
+	overflow: visible;
+	width: 235px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: zai Consul Polish Typewriter;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(43,46,52,1);
+}
+#Ojciec_pracowa_fizycznie_ {
+	left: 0px;
+	top: 74.768px;
+	position: absolute;
+	overflow: visible;
+	width: 265px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: zai Consul Polish Typewriter;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(43,46,52,1);
+}
+#matka_bya_nauczycielk_w_lok_ {
+	left: 0px;
+	top: 99.69px;
+	position: absolute;
+	overflow: visible;
+	width: 294px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: zai Consul Polish Typewriter;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(43,46,52,1);
+}
+#alnej_szkole_Rodzina_wydawaa_ {
+	left: 0px;
+	top: 124.613px;
+	position: absolute;
+	overflow: visible;
+	width: 304px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: zai Consul Polish Typewriter;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(43,46,52,1);
+}
+#si_solidna_stabilna_moe_nie_ {
+	left: 0px;
+	top: 149.535px;
+	position: absolute;
+	overflow: visible;
+	width: 314px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: zai Consul Polish Typewriter;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(43,46,52,1);
+}
+#bogata_ale_na_pewno_pena_ {
+	left: 0px;
+	top: 174.458px;
+	position: absolute;
+	overflow: visible;
+	width: 265px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: zai Consul Polish Typewriter;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(43,46,52,1);
+}
+#mioci_i_wsparcia_ {
+	left: 0px;
+	top: 199.38px;
+	position: absolute;
+	overflow: visible;
+	width: 196px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: zai Consul Polish Typewriter;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(43,46,52,1);
+}
+#Wszyscy_ssiedzi_powtarzali_ {
+	left: 0px;
+	top: 224.303px;
+	position: absolute;
+	overflow: visible;
+	width: 284px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: zai Consul Polish Typewriter;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(43,46,52,1);
+}
+#e__mia_dobre_dziecistwo_ {
+	left: 0px;
+	top: 249.225px;
+	position: absolute;
+	overflow: visible;
+	width: 294px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: zai Consul Polish Typewriter;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(43,46,52,1);
+}
+#By_jednym_z_tych_chopcw_o_ {
+	left: 0px;
+	top: 274.148px;
+	position: absolute;
+	overflow: visible;
+	width: 294px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: zai Consul Polish Typewriter;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(43,46,52,1);
+}
+#ktrych_mwio_si_e_zawsze_ {
+	left: 0px;
+	top: 299.07px;
+	position: absolute;
+	overflow: visible;
+	width: 304px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: zai Consul Polish Typewriter;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(43,46,52,1);
+}
+#co_z_niego_bdzie_ {
+	left: 0px;
+	top: 323.993px;
+	position: absolute;
+	overflow: visible;
+	width: 206px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: zai Consul Polish Typewriter;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(43,46,52,1);
+}
+#Group_2 {
+	position: absolute;
+	width: 386.841px;
+	height: 300.163px;
+	left: 1027px;
+	top: 684.331px;
+	overflow: visible;
+}
+#Group_g {
+	position: absolute;
+	width: 386.841px;
+	height: 300.163px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Dobrze_si_uczy_mia_plany_ {
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 294px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: zai Consul Polish Typewriter;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(43,46,52,1);
+}
+#ambicje_a_rodzice_wspierali_je {
+	left: 0px;
+	top: 25.56px;
+	position: absolute;
+	overflow: visible;
+	width: 333px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: zai Consul Polish Typewriter;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(43,46,52,1);
+}
+#marzenia_o_studiach_Jednak_ju_ {
+	left: 0px;
+	top: 51.121px;
+	position: absolute;
+	overflow: visible;
+	width: 314px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: zai Consul Polish Typewriter;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(43,46,52,1);
+}
+#wtedy_mona_byo_dostrzec_co_ {
+	left: 0px;
+	top: 76.681px;
+	position: absolute;
+	overflow: visible;
+	width: 304px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: zai Consul Polish Typewriter;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(43,46,52,1);
+}
+#co_odrniao_go_od_innych_ {
+	left: 0px;
+	top: 102.241px;
+	position: absolute;
+	overflow: visible;
+	width: 274px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: zai Consul Polish Typewriter;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(43,46,52,1);
+}
+#_mia_obsesyjn_potrzeb_kontroli {
+	left: 0px;
+	top: 127.801px;
+	position: absolute;
+	overflow: visible;
+	width: 362px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: zai Consul Polish Typewriter;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(43,46,52,1);
+}
+#Wydawao_si_to_niewinne_-_zawsz {
+	left: 0px;
+	top: 153.362px;
+	position: absolute;
+	overflow: visible;
+	width: 343px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: zai Consul Polish Typewriter;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(43,46,52,1);
+}
+#musia_mie_wszystko_pod_kontrol {
+	left: 0px;
+	top: 178.922px;
+	position: absolute;
+	overflow: visible;
+	width: 343px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: zai Consul Polish Typewriter;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(43,46,52,1);
+}
+#od_planu_dnia_przez_swoje_ocen {
+	left: 0px;
+	top: 204.482px;
+	position: absolute;
+	overflow: visible;
+	width: 333px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: zai Consul Polish Typewriter;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(43,46,52,1);
+}
+#po_to_co_zjedz_na_kolacj_ {
+	left: 0px;
+	top: 230.042px;
+	position: absolute;
+	overflow: visible;
+	width: 284px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: zai Consul Polish Typewriter;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(43,46,52,1);
+}
+#Kady_drobiazg_musia_by_ {
+	left: 0px;
+	top: 255.603px;
+	position: absolute;
+	overflow: visible;
+	width: 255px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: zai Consul Polish Typewriter;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(43,46,52,1);
+}
+#zaplanowany_ {
+	left: 0px;
+	top: 281.163px;
+	position: absolute;
+	overflow: visible;
+	width: 128px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: zai Consul Polish Typewriter;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(43,46,52,1);
+}
+#a_ {
+	left: 142.373px;
+	top: 281.163px;
+	position: absolute;
+	overflow: visible;
+	width: 21px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: zai Consul Polish Typewriter;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(43,46,52,1);
+}
+#jeli_ {
+	left: 170.338px;
+	top: 281.163px;
+	position: absolute;
+	overflow: visible;
+	width: 60px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: zai Consul Polish Typewriter;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(43,46,52,1);
+}
+#co__hn {
+	left: 239.906px;
+	top: 281.163px;
+	position: absolute;
+	overflow: visible;
+	width: 40px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: zai Consul Polish Typewriter;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(43,46,52,1);
+}
+#szo__ho {
+	left: 288.673px;
+	top: 281.163px;
+	position: absolute;
+	overflow: visible;
+	width: 50px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: zai Consul Polish Typewriter;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(43,46,52,1);
+}
+#nie__hp {
+	left: 347.841px;
+	top: 281.163px;
+	position: absolute;
+	overflow: visible;
+	width: 40px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: zai Consul Polish Typewriter;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(43,46,52,1);
+}
+#Component_1__1 {
+	position: absolute;
+	width: 313px;
+	height: 342.993px;
+	left: 109px;
+	top: 465.504px;
+	overflow: visible;
+	--web-animation: fadein 0.30000001192092896s ease-out;
+	--web-action-type: page;
+	--web-action-target: 1___3.html;
+	cursor: pointer;
+}
+#Group_hr {
+	position: absolute;
+	width: 313px;
+	height: 342.993px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#_Zacznijmy_od_pocztku_hs {
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 235px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: zai Consul Polish Typewriter;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(43,46,52,1);
+}
+#__urodzi_si_i_wychowa_ht {
+	left: 0px;
+	top: 24.923px;
+	position: absolute;
+	overflow: visible;
+	width: 255px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: zai Consul Polish Typewriter;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(43,46,52,1);
+}
+#w_rodzinie_robotniczej__hu {
+	left: 0px;
+	top: 49.845px;
+	position: absolute;
+	overflow: visible;
+	width: 235px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: zai Consul Polish Typewriter;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(43,46,52,1);
+}
+#Ojciec_pracowa_fizycznie__hv {
+	left: 0px;
+	top: 74.768px;
+	position: absolute;
+	overflow: visible;
+	width: 265px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: zai Consul Polish Typewriter;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(43,46,52,1);
+}
+#matka_bya_nauczycielk_w_lok__hw {
+	left: 0px;
+	top: 99.69px;
+	position: absolute;
+	overflow: visible;
+	width: 294px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: zai Consul Polish Typewriter;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(43,46,52,1);
+}
+#alnej_szkole_Rodzina_wydawaa__hx {
+	left: 0px;
+	top: 124.613px;
+	position: absolute;
+	overflow: visible;
+	width: 304px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: zai Consul Polish Typewriter;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(43,46,52,1);
+}
+#si_solidna_stabilna_moe_nie__hy {
+	left: 0px;
+	top: 149.535px;
+	position: absolute;
+	overflow: visible;
+	width: 314px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: zai Consul Polish Typewriter;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(43,46,52,1);
+}
+#bogata_ale_na_pewno_pena__hz {
+	left: 0px;
+	top: 174.458px;
+	position: absolute;
+	overflow: visible;
+	width: 265px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: zai Consul Polish Typewriter;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(43,46,52,1);
+}
+#mioci_i_wsparcia__h {
+	left: 0px;
+	top: 199.38px;
+	position: absolute;
+	overflow: visible;
+	width: 196px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: zai Consul Polish Typewriter;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(43,46,52,1);
+}
+#Wszyscy_ssiedzi_powtarzali__h {
+	left: 0px;
+	top: 224.303px;
+	position: absolute;
+	overflow: visible;
+	width: 284px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: zai Consul Polish Typewriter;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(43,46,52,1);
+}
+#e__mia_dobre_dziecistwo__h {
+	left: 0px;
+	top: 249.225px;
+	position: absolute;
+	overflow: visible;
+	width: 294px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: zai Consul Polish Typewriter;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(43,46,52,1);
+}
+#By_jednym_z_tych_chopcw_o__h {
+	left: 0px;
+	top: 274.148px;
+	position: absolute;
+	overflow: visible;
+	width: 294px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: zai Consul Polish Typewriter;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(43,46,52,1);
+}
+#ktrych_mwio_si_e_zawsze__h {
+	left: 0px;
+	top: 299.07px;
+	position: absolute;
+	overflow: visible;
+	width: 304px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: zai Consul Polish Typewriter;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(43,46,52,1);
+}
+#co_z_niego_bdzie__h {
+	left: 0px;
+	top: 323.993px;
+	position: absolute;
+	overflow: visible;
+	width: 206px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: zai Consul Polish Typewriter;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(43,46,52,1);
+}
+#Group_14 {
+	position: absolute;
+	width: 386.841px;
+	height: 300.163px;
+	left: 1470px;
+	top: 684.331px;
+	overflow: visible;
+}
+#Group_h {
+	position: absolute;
+	width: 386.841px;
+	height: 300.163px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Dobrze_si_uczy_mia_plany__h {
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 294px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: zai Consul Polish Typewriter;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(43,46,52,1);
+}
+#ambicje_a_rodzice_wspierali_je_h {
+	left: 0px;
+	top: 25.56px;
+	position: absolute;
+	overflow: visible;
+	width: 333px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: zai Consul Polish Typewriter;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(43,46,52,1);
+}
+#marzenia_o_studiach_Jednak_ju__ia {
+	left: 0px;
+	top: 51.121px;
+	position: absolute;
+	overflow: visible;
+	width: 314px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: zai Consul Polish Typewriter;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(43,46,52,1);
+}
+#wtedy_mona_byo_dostrzec_co__ib {
+	left: 0px;
+	top: 76.681px;
+	position: absolute;
+	overflow: visible;
+	width: 304px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: zai Consul Polish Typewriter;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(43,46,52,1);
+}
+#co_odrniao_go_od_innych__ic {
+	left: 0px;
+	top: 102.241px;
+	position: absolute;
+	overflow: visible;
+	width: 274px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: zai Consul Polish Typewriter;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(43,46,52,1);
+}
+#_mia_obsesyjn_potrzeb_kontroli_id {
+	left: 0px;
+	top: 127.801px;
+	position: absolute;
+	overflow: visible;
+	width: 362px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: zai Consul Polish Typewriter;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(43,46,52,1);
+}
+#Wydawao_si_to_niewinne_-_zawsz_ie {
+	left: 0px;
+	top: 153.362px;
+	position: absolute;
+	overflow: visible;
+	width: 343px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: zai Consul Polish Typewriter;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(43,46,52,1);
+}
+#musia_mie_wszystko_pod_kontrol_if {
+	left: 0px;
+	top: 178.922px;
+	position: absolute;
+	overflow: visible;
+	width: 343px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: zai Consul Polish Typewriter;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(43,46,52,1);
+}
+#od_planu_dnia_przez_swoje_ocen_ig {
+	left: 0px;
+	top: 204.482px;
+	position: absolute;
+	overflow: visible;
+	width: 333px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: zai Consul Polish Typewriter;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(43,46,52,1);
+}
+#po_to_co_zjedz_na_kolacj__ih {
+	left: 0px;
+	top: 230.042px;
+	position: absolute;
+	overflow: visible;
+	width: 284px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: zai Consul Polish Typewriter;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(43,46,52,1);
+}
+#Kady_drobiazg_musia_by__ii {
+	left: 0px;
+	top: 255.603px;
+	position: absolute;
+	overflow: visible;
+	width: 255px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: zai Consul Polish Typewriter;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(43,46,52,1);
+}
+#zaplanowany__ij {
+	left: 0px;
+	top: 281.163px;
+	position: absolute;
+	overflow: visible;
+	width: 128px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: zai Consul Polish Typewriter;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(43,46,52,1);
+}
+#a__ik {
+	left: 142.373px;
+	top: 281.163px;
+	position: absolute;
+	overflow: visible;
+	width: 21px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: zai Consul Polish Typewriter;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(43,46,52,1);
+}
+#jeli__il {
+	left: 170.338px;
+	top: 281.163px;
+	position: absolute;
+	overflow: visible;
+	width: 60px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: zai Consul Polish Typewriter;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(43,46,52,1);
+}
+#co__im {
+	left: 239.906px;
+	top: 281.163px;
+	position: absolute;
+	overflow: visible;
+	width: 40px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: zai Consul Polish Typewriter;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(43,46,52,1);
+}
+#szo__in {
+	left: 288.673px;
+	top: 281.163px;
+	position: absolute;
+	overflow: visible;
+	width: 50px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: zai Consul Polish Typewriter;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(43,46,52,1);
+}
+#nie__io {
+	left: 347.841px;
+	top: 281.163px;
+	position: absolute;
+	overflow: visible;
+	width: 40px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: zai Consul Polish Typewriter;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(43,46,52,1);
+}
