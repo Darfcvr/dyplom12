@@ -10,10 +10,9 @@
 		--web-view-name: index;
 		--web-view-id: index;
 		--web-scale-to-fit: true;
-		--web-scale-to-fit-type: fit;
+		--web-scale-to-fit-type: width;
 		--web-enable-scale-up: true;
 		--web-scale-on-resize: true;
-		--web-center-horizontally: true;
 		--web-center-vertically: true;
 		--web-enable-deep-linking: true;
 	}
@@ -28,17 +27,16 @@
 	}
 	#index {
 		position: absolute;
-		width: 1920px;
-		height: 1080px;
+		width: 3968px;
+		height: 6627px;
 		background-color: rgba(0,0,0,1);
 		overflow: hidden;
 		--web-view-name: index;
 		--web-view-id: index;
 		--web-scale-to-fit: true;
-		--web-scale-to-fit-type: fit;
+		--web-scale-to-fit-type: width;
 		--web-enable-scale-up: true;
 		--web-scale-on-resize: true;
-		--web-center-horizontally: true;
 		--web-center-vertically: true;
 		--web-enable-deep-linking: true;
 	}
@@ -54,58 +52,34 @@
 	}
 	#Warstwa_1 {
 		position: absolute;
-		width: 656.037px;
-		height: 1048.672px;
-		left: 42.533px;
-		top: 78.5px;
+		width: 758.094px;
+		height: 1211.81px;
+		left: 1581.981px;
+		top: 777.658px;
 		overflow: visible;
+		--web-animation: fadein 0.30000001192092896s ease-out;
+		--web-action-type: page;
+		--web-action-target: 1.html;
+		cursor: pointer;
 	}
 	#Warstwa_1_m {
 		position: absolute;
-		width: 656.037px;
-		height: 1048.672px;
-		left: 587.486px;
-		top: 89.258px;
+		width: 758.094px;
+		height: 1211.81px;
+		left: 1581.981px;
+		top: 2517.658px;
 		overflow: visible;
+		--web-animation: fadein 0.30000001192092896s ease-out;
+		--web-action-type: page;
+		--web-action-target: 1.html;
+		cursor: pointer;
 	}
 	#Warstwa_1_n {
 		position: absolute;
-		width: 656.037px;
-		height: 1048.672px;
-		left: 1127.486px;
-		top: 78.5px;
-		overflow: visible;
-	}
-	#Warstwa_1_o {
-		position: absolute;
-		width: 656.037px;
-		height: 1048.672px;
-		left: 42.533px;
-		top: 46.5px;
-		overflow: visible;
-		--web-animation: fadein 0.30000001192092896s ease-out;
-		--web-action-type: page;
-		--web-action-target: 1.html;
-		cursor: pointer;
-	}
-	#Warstwa_1_p {
-		position: absolute;
-		width: 656.037px;
-		height: 1048.672px;
-		left: 587.486px;
-		top: 57.258px;
-		overflow: visible;
-		--web-animation: fadein 0.30000001192092896s ease-out;
-		--web-action-type: page;
-		--web-action-target: 1.html;
-		cursor: pointer;
-	}
-	#Warstwa_1_q {
-		position: absolute;
-		width: 656.037px;
-		height: 1048.672px;
-		left: 1127.486px;
-		top: 46.5px;
+		width: 758.094px;
+		height: 1211.81px;
+		left: 1604.953px;
+		top: 4327.658px;
 		overflow: visible;
 		--web-animation: fadein 0.30000001192092896s ease-out;
 		--web-action-type: page;
@@ -2954,17 +2928,11 @@ window.application = new Application();
 </head>
 <body>
 <div id="index">
-	<img id="Warstwa_1" src="Warstwa_1.png" srcset="Warstwa_1.png 1x, Warstwa_1@2x.png 2x">
+	<img onclick="application.goToTargetView(event)" id="Warstwa_1" src="Warstwa_1.png" srcset="Warstwa_1.png 1x, Warstwa_1@2x.png 2x">
 		
-	<img id="Warstwa_1_m" src="Warstwa_1_m.png" srcset="Warstwa_1_m.png 1x, Warstwa_1_m@2x.png 2x">
+	<img onclick="application.goToTargetView(event)" id="Warstwa_1_m" src="Warstwa_1_m.png" srcset="Warstwa_1_m.png 1x, Warstwa_1_m@2x.png 2x">
 		
-	<img id="Warstwa_1_n" src="Warstwa_1_n.png" srcset="Warstwa_1_n.png 1x, Warstwa_1_n@2x.png 2x">
-		
-	<img onclick="application.goToTargetView(event)" id="Warstwa_1_o" src="Warstwa_1_o.png" srcset="Warstwa_1_o.png 1x, Warstwa_1_o@2x.png 2x">
-		
-	<img onclick="application.goToTargetView(event)" id="Warstwa_1_p" src="Warstwa_1_p.png" srcset="Warstwa_1_p.png 1x, Warstwa_1_p@2x.png 2x">
-		
-	<img onclick="application.goToTargetView(event)" id="Warstwa_1_q" src="Warstwa_1_q.png" srcset="Warstwa_1_q.png 1x, Warstwa_1_q@2x.png 2x">
+	<img onclick="application.goToTargetView(event)" id="Warstwa_1_n" src="Warstwa_1_n.png" srcset="Warstwa_1_n.png 1x, Warstwa_1_n@2x.png 2x">
 		
 </div>
 </body>
