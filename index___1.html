@@ -9,6 +9,8 @@
 	.mediaViewInfo {
 		--web-view-name: index – 1;
 		--web-view-id: index__1;
+		--web-scale-to-fit: true;
+		--web-scale-to-fit-type: fit;
 		--web-scale-on-resize: true;
 		--web-enable-deep-linking: true;
 	}
@@ -23,60 +25,16 @@
 	}
 	#index__1 {
 		position: absolute;
-		width: 970px;
+		width: 968px;
 		height: 1228px;
 		background-color: rgba(0,0,0,1);
 		overflow: hidden;
 		--web-view-name: index – 1;
 		--web-view-id: index__1;
+		--web-scale-to-fit: true;
+		--web-scale-to-fit-type: fit;
 		--web-scale-on-resize: true;
 		--web-enable-deep-linking: true;
-	}
-	@keyframes fadein {
-	
-		0% {
-			opacity: 0;
-		}
-		100% {
-			opacity: 1;
-		}
-	
-	}
-	#Warstwa_1 {
-		position: absolute;
-		width: 451.469px;
-		height: 721.671px;
-		left: -100.123px;
-		top: 198.69px;
-		overflow: visible;
-		--web-animation: fadein 0.30000001192092896s ease-out;
-		--web-action-type: page;
-		--web-action-target: 1.html;
-		cursor: pointer;
-	}
-	#Warstwa_1_o {
-		position: absolute;
-		width: 417px;
-		height: 717.628px;
-		left: 211.456px;
-		top: 202.734px;
-		overflow: visible;
-		--web-animation: fadein 0.30000001192092896s ease-out;
-		--web-action-type: page;
-		--web-action-target: 1.html;
-		cursor: pointer;
-	}
-	#Warstwa_1_p {
-		position: absolute;
-		width: 470.302px;
-		height: 751.776px;
-		left: 512.346px;
-		top: 183.638px;
-		overflow: visible;
-		--web-animation: fadein 0.30000001192092896s ease-out;
-		--web-action-type: page;
-		--web-action-target: 1.html;
-		cursor: pointer;
 	}
 </style>
 <script id="applicationScript">
@@ -2920,12 +2878,6 @@ window.application = new Application();
 </head>
 <body>
 <div id="index__1">
-	<img onclick="application.goToTargetView(event)" id="Warstwa_1" src="Warstwa_1.png" srcset="Warstwa_1.png 1x, Warstwa_1@2x.png 2x">
-		
-	<img onclick="application.goToTargetView(event)" id="Warstwa_1_o" src="Warstwa_1_o.png" srcset="Warstwa_1_o.png 1x, Warstwa_1_o@2x.png 2x">
-		
-	<img onclick="application.goToTargetView(event)" id="Warstwa_1_p" src="Warstwa_1_p.png" srcset="Warstwa_1_p.png 1x, Warstwa_1_p@2x.png 2x">
-		
 </div>
 </body>
 </html>
